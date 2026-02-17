@@ -1,4 +1,3 @@
-# Cisco-Router-Telnet-Remote-Access
 # Cisco Router Telnet Remote Access
 
 ## Overview
